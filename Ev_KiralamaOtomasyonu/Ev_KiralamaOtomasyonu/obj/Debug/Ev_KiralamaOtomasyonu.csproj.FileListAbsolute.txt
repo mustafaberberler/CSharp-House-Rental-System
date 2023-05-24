@@ -1,0 +1,81 @@
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\Debug\Ev_KiralamaOtomasyonu.exe.config
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Properties.Resources.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\Debug\Ev_KiralamaOtomasyonu.exe.config
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Ev_Ara_ve_Ev_Kirala.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Girisi_Bilgi_Guncelleme.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Sil.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Properties.Resources.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kiralik_Daireleri_Guncelle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kira_Sozlesmesini_Guncelle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_KiracilariGoruntule.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Ev_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Ev_Ekle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Ev_Sil.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Baslangic_Ekrani.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kullanici_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kullanici_Ekle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Uye_Giris_Ekrani.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Kayit_Ol.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu Videosu ve Proje Dosyası\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu Videosu ve Proje Dosyası\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu Videosu ve Proje Dosyası\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\Debug\Ev_KiralamaOtomasyonu.exe.config
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Kayit_Ol.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Ev_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Ev_Ekle.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Ev_Sil.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Baslangic_Ekrani.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kullanici_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kullanici_Ekle.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Ev_Ara_ve_Ev_Kirala.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Uye_Giris_Ekrani.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Girisi_Bilgi_Guncelleme.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Sil.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Properties.Resources.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_KiracilariGoruntule.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kiralik_Daireleri_Guncelle.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kira_Sozlesmesini_Guncelle.resources
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\dersler 2. dönem\BM102\PROJE HER ŞEY\PROJE SON HAL\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\dersler 2. dönem\BM102\PROJE HER ŞEY\PROJE SON HAL\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\dersler 2. dönem\BM102\PROJE HER ŞEY\PROJE SON HAL\41. Grup Ev Kiralama Otomasyonu\41. Grup Ev Kiralama Otomasyonu\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Kayit_Ol.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Ev_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Ev_Ekle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Ev_Sil.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Baslangic_Ekrani.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kullanici_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kullanici_Ekle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Ev_Ara_ve_Ev_Kirala.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Uye_Giris_Ekrani.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Girisi_Bilgi_Guncelleme.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Kullanici_Sil.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_KiracilariGoruntule.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kiralik_Daireleri_Guncelle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kira_Sozlesmesini_Guncelle.resources

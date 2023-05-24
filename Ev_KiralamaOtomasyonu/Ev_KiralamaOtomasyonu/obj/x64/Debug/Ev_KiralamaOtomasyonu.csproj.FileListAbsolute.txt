@@ -1,0 +1,46 @@
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\x64\Debug\Ev_KiralamaOtomasyonu.exe.config
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\x64\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\x64\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Form1.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Giris.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Properties.Resources.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Yonetici.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Sil.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Ekle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Ev_Ekle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Ev_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Ev_Sil.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Girisi_Bilgi_Guncelleme.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Ev_Ara_ve_Ev_Kirala.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kiralik_Daireleri_Guncelle.resources
+C:\Users\mustafa\Desktop\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kira_Sozlesmesini_Guncelle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\x64\Debug\Ev_KiralamaOtomasyonu.exe.config
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\x64\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\bin\x64\Debug\Ev_KiralamaOtomasyonu.pdb
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Ev_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Ev_Ekle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Ev_Sil.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Form1.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Ara_Guncelle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Ekle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Ev_Ara_ve_Ev_Kirala.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Giris.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Girisi_Bilgi_Guncelleme.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Kullanici_Sil.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Properties.Resources.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Yonetici.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kiralik_Daireleri_Guncelle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.Yonetici_Kira_Sozlesmesini_Guncelle.resources
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.exe
+C:\Users\mustafa\Desktop\sql proje deneme\Ev_KiralamaOtomasyonu\Ev_KiralamaOtomasyonu\obj\x64\Debug\Ev_KiralamaOtomasyonu.pdb
